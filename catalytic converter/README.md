@@ -11,3 +11,5 @@ The meshing for this project includes both soild and fluid part for further anal
 
 https://user-images.githubusercontent.com/110358483/213312907-8effc4cc-9e94-4136-b984-a7c244739893.mp4
 
+
+Note: The dat and cas file is not attached due to the size of the file.
