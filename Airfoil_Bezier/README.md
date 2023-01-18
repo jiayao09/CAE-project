@@ -12,3 +12,8 @@ variety of CAD programs or analysis tools.
 
 # Result
 ![image](https://user-images.githubusercontent.com/110358483/213315857-90e1f53b-2e5c-44c4-8e1d-87d26895e1f3.png)
+
+
+Note: include Eigen\Dense library and change the directory in the header file
+- You can get it here: git clone https://gitlab.com/libeigen/eigen.git
+- Or download the whole package (rar) in my gitlab
