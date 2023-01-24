@@ -13,3 +13,8 @@ The Figure 1 shows that the temperature of the heat sink is 14 degrees lower tha
 
 ## About meshing 
 Local sizing were added to the entire heat sink, which significantly increased the number of cells. In this project, a polyhexagonal mesh was used to meet the cell limits, the details of which are given below. Compared to hexcore, poly-hexcore has fewer elements and, in general, uses the least amount of RAM.
+
+
+
+https://user-images.githubusercontent.com/110358483/214229988-3921b8a8-b1a9-4ab0-aed3-4e453f247d2c.mp4
+
