@@ -22,3 +22,7 @@ This project also compares the shear stresses along the y-direction with the con
 ## About meshing
 The transition between two different diameters is considered to be a critical part of this simulation. Therefore, we added local sizing for meshing in both Y-direction and X-direction for that section as below.
 
+
+
+https://user-images.githubusercontent.com/110358483/214229712-740d75c2-f9b6-4dce-bfbe-106e407a9fb8.mp4
+
