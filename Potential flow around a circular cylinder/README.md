@@ -7,3 +7,7 @@ https://user-images.githubusercontent.com/110358483/214173072-63c89db6-07b9-43ea
 ## About meshing
 
 The meshing for this project includes only the fluid part. This project was meshed using polyhedra to reduce the number of cells and to improve the quality.
+
+
+https://user-images.githubusercontent.com/110358483/214231861-44cc5d8a-6845-4e9c-a7ed-8228d349c989.mp4
+
